@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Math Magician Web App</b></h3>
 
 </div>
 
@@ -99,7 +99,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link]()
+- [Live Demo Link](https://mathmagiccalculator.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
